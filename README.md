@@ -1,19 +1,19 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=220&section=header&text=cyb3rflux&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:6b5fff&height=220&section=header&text=Cyb3rFlux&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+%26+SaaS+Products;Shipping+Fast.+Iterating+Always.;Full-Stack+Developer+%7C+Solopreneur;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff85&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+%26+SaaS+Products;Shipping+Fast.+Iterating+Always.;Full-Stack+Developer+%7C+Solopreneur;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
 </div>
 
 <!-- Profile Views & Stats -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=00ff85&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=00ff85&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=00ff85&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=repositories)
 
 </div>
 
@@ -38,6 +38,7 @@ const developer = {
 
 ---
 
+<!-- TROPHIES SECTION COMMENTED OUT - Will display once GitHub achievements are earned
 ## `> trophies`
 
 <div align="center">
@@ -45,12 +46,14 @@ const developer = {
 </div>
 
 ---
+-->
 
 ## `> tech_stack`
 
 <div align="center">
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,23 +61,27 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Backend & Cloud
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### AI & Automation
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-10B981?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-00ff85?style=for-the-badge&logoColor=black)
 
 ### Databases & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
