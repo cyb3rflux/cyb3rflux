@@ -1,14 +1,14 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=NuclearWest&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=cyb3rflux&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Profile Views & Stats -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=NuclearWest&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/NuclearWest?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/NuclearWest?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/NuclearWest?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/NuclearWest?tab=repositories)
+  ![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=repositories)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```typescript
 const developer = {
-    name: "NuclearWest",
+    name: "cyb3rflux",
     location: "DFW, Texas",
     role: "Full-Stack Developer & Solopreneur",
     focus: ["AI Agents", "SaaS Products", "Business Automation"],
@@ -103,12 +103,12 @@ const developer = {
 ## `> github_stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuclearWest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuclearWest&theme=tokyonight&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rflux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rflux&theme=tokyonight&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuclearWest&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rflux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" height="180"/>
 </div>
 
 ---
@@ -116,7 +116,7 @@ const developer = {
 ## `> activity_graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuclearWest&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rflux&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
