@@ -212,6 +212,19 @@ Custom web solutions with POS integrations (Clover API), online ordering, and au
 
 ---
 
+## `> snake_animation`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+## `> coding_activity`
+
+<!--START_SECTION:wakatime_stats-->
+<!--END_SECTION:wakatime_stats-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=120&section=footer" width="100%"/>
 </div>
