@@ -10,10 +10,10 @@
 
 <!-- Profile Views & Stats -->
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=repositories)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=10B981&labelColor=1a1a2e)](https://github.com/cyb3rflux?tab=repositories)
 
 </div>
 
@@ -58,23 +58,23 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-10B981?style=for-the-badge&logo=robot&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-10B981?style=for-the-badge&logoColor=white)
 
 ### Databases & APIs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -85,14 +85,14 @@ const developer = {
 ## `> skill_levels`
 
 ```text
-JavaScript   ████████████████████░░░░░   80%
-TypeScript   ██████████████████░░░░░░░   72%
-Python       ████████████████░░░░░░░░░   64%
-React/Next   ███████████████████░░░░░░   76%
-Node.js      ██████████████████░░░░░░░   72%
-AI/LLMs      ████████████████████░░░░░   80%
-API Design   ██████████████████████░░░   88%
-UI/UX        ████████████████░░░░░░░░░   64%
+JavaScript    ████████████████████░░   92%
+TypeScript    ███████████████████░░░   88%
+Python        █████████████████░░░░░   85%
+React/Next    ████████████████████░░   90%
+Node.js       ███████████████████░░░   88%
+AI/LLMs       ████████████████████░░   92%
+API Design    █████████████████████░   95%
+UI/UX         █████████████████░░░░░   85%
 ```
 
 ---
@@ -103,8 +103,8 @@ UI/UX        ████████████████░░░░░░�
 
 🎧 **Currently Coding To:**
 
-[![Dies Irae](https://img.shields.io/badge/🎵_Dies_Irae_(just_raw)-Aloboi-10B981?style=for-the-badge)](https://open.spotify.com/search/dies%20irae%20aloboi)
-[![Monolithic](https://img.shields.io/badge/🎵_Monolithic-Milord-10B981?style=for-the-badge)](https://open.spotify.com/search/monolithic%20milord)
+[![Dies Irae](https://img.shields.io/badge/🎵_DIES_IRAE_(JUST_RAW)-ALOBOI-10B981?style=for-the-badge)](https://open.spotify.com/search/dies%20irae%20just%20raw%20aloboi)
+[![Monolithic](https://img.shields.io/badge/🎵_MONOLITHIC-MILORD-10B981?style=for-the-badge)](https://open.spotify.com/search/monolithic%20milord)
 
 </div>
 
@@ -112,44 +112,86 @@ UI/UX        ████████████████░░░░░░�
 
 ## `> current_builds`
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🗺️ MapScan AI</h3>
-      <p>AI-powered local SEO automation for restaurants and med spas. Automated GBP optimization, review management, and competitor analysis.</p>
-      <img src="https://img.shields.io/badge/Status-In_Development-10B981?style=flat-square"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛡️ Guardian OS</h3>
-      <p>AI agent platform for business automation. Orchestrate workflows, automate repetitive tasks, and scale operations.</p>
-      <img src="https://img.shields.io/badge/Status-Building-10B981?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🙏 The Fellowship Room</h3>
-      <p>Faith-based community platform connecting believers. Features include group discussions, prayer requests, and resource sharing.</p>
-      <img src="https://img.shields.io/badge/Status-Planning-6366F1?style=flat-square"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🍔 Restaurant Solutions</h3>
-      <p>Custom web solutions with POS integrations (Clover API), online ordering, and automated marketing for DFW restaurants.</p>
-      <img src="https://img.shields.io/badge/Status-Active-10B981?style=flat-square"/>
-    </td>
-  </tr>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🗺️ MapScan AI
+AI-powered local SEO automation for restaurants and med spas. Automated GBP optimization, review management, and competitor analysis.
+
+![Status](https://img.shields.io/badge/Status-In_Development-10B981?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+### 🛡️ Guardian OS
+AI agent platform for business automation. Orchestrate workflows, automate repetitive tasks, and scale operations.
+
+![Status](https://img.shields.io/badge/Status-Building-3B82F6?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🙏 The Fellowship Room
+Faith-based community platform connecting believers. Features include group discussions, prayer requests, and resource sharing.
+
+![Status](https://img.shields.io/badge/Status-Planning-F59E0B?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+### 🍔 Restaurant Solutions
+Custom web solutions with POS integrations (Clover API), online ordering, and automated marketing for DFW restaurants.
+
+![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square)
+
+</td>
+</tr>
 </table>
+</div>
 
 ---
 
 ## `> github_stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rflux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rflux&theme=tokyonight&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rflux&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3rflux&theme=dark&hide_border=true&background=0d1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rflux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rflux&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" height="150"/>
+</div>
+
+---
+
+## `> snake_animation`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## `> 3d_contrib`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%"/>
+</div>
+
+---
+
+## `> wakatime_stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cyb3rflux&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
@@ -157,7 +199,7 @@ UI/UX        ████████████████░░░░░░�
 ## `> activity_graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rflux&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rflux&theme=react-dark&hide_border=true&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&area_color=10B981" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -165,7 +207,7 @@ UI/UX        ████████████████░░░░░░�
 ## `> random_dev_quote`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote"/>
 </div>
 
 ---
