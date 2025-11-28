@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=200&section=header&text=cyb3rflux&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:10B981,100:000000&height=220&section=header&text=cyb3rflux&fontSize=70&fontColor=10B981&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
 <!-- Profile Views & Stats -->
@@ -122,5 +122,5 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:10B981,100:000000&height=150&section=footer&reversal=true" width="100%"/>
 </div>
