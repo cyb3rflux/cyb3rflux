@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:059669&height=220&section=header&text=cyb3rflux&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+%26+SaaS+Products;Shipping+Fast.+Iterating+Always.;Full-Stack+Developer+%7C+Solopreneur;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
+</div>
+
 <!-- Profile Views & Stats -->
 <div align="center">
   
@@ -30,6 +35,14 @@ const developer = {
     philosophy: "Build fast. Ship faster. Iterate always."
 };
 ```
+
+---
+
+## `> trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyb3rflux&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -64,6 +77,34 @@ const developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## `> skill_levels`
+
+```text
+JavaScript   ████████████████████░░░░░   80%
+TypeScript   ██████████████████░░░░░░░   72%
+Python       ████████████████░░░░░░░░░   64%
+React/Next   ███████████████████░░░░░░   76%
+Node.js      ██████████████████░░░░░░░   72%
+AI/LLMs      ████████████████████░░░░░   80%
+API Design   ██████████████████████░░░   88%
+UI/UX        ████████████████░░░░░░░░░   64%
+```
+
+---
+
+## `> vibes`
+
+<div align="center">
+
+🎧 **Currently Coding To:**
+
+[![Dies Irae](https://img.shields.io/badge/🎵_Dies_Irae_(just_raw)-Aloboi-10B981?style=for-the-badge)](https://open.spotify.com/search/dies%20irae%20aloboi)
+[![Monolithic](https://img.shields.io/badge/🎵_Monolithic-Milord-10B981?style=for-the-badge)](https://open.spotify.com/search/monolithic%20milord)
 
 </div>
 
@@ -117,6 +158,14 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rflux&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## `> random_dev_quote`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote"/>
 </div>
 
 ---
