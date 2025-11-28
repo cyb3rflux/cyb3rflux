@@ -2,11 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -14,6 +17,9 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
@@ -21,7 +27,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=cyan&color_dots=#10B981,#065f46,#047857,#34d399
+            dist/ocean.gif?color_snake=#10B981&color_dots=#065f46,#047857,#34d399,#6ee7b7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
