@@ -175,15 +175,13 @@ Custom web solutions with POS integrations (Clover API), online ordering, and au
 
 ---
 
-## `> snake_animation`
+## My Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/cyb3rflux/cyb3rflux/output/github-snake-dark.svg" />
-  </picture>
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
