@@ -11,9 +11,9 @@
 <!-- Profile Views & Stats -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=00ff85&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F1419)
-[![GitHub Followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=00ff85&labelColor=0F1419&label=FOLLOWERS)](https://github.com/cyb3rflux?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=00ff85&labelColor=0F1419&label=STARS)](https://github.com/cyb3rflux?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=6b5fff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F1419)
+[![GitHub Followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=6b5fff&labelColor=0F1419&label=FOLLOWERS)](https://github.com/cyb3rflux?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=6b5fff&labelColor=0F1419&label=STARS)](https://github.com/cyb3rflux?tab=repositories)
 
 </div>
 
@@ -42,47 +42,47 @@ const developer = {
 ---
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> <code style="color:#00ff85">current_builds</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> <code style="color:#00ff85">current builds</code></h2></summary>
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🗺️ MapScan AI
+### <span style="color:#00ff85">🗺️ MapScan AI</span>
 
 AI-powered local SEO automation for restaurants and med spas. Automated GBP optimization, review management, and competitor analysis.
 
-![Status](https://img.shields.io/badge/Status-In_Development-00ff85?style=flat-square&labelColor=0F1419)
+![Status](https://img.shields.io/badge/Status-In_Development-50C878?style=flat-square&labelColor=0F1419)
 
 </td>
 <td align="center" width="50%">
 
-### 🛡️ Guardian OS
+### <span style="color:#00ff85">🛡️ Guardian OS</span>
 
 AI agent platform for business automation. Orchestrate workflows, automate repetitive tasks, and scale operations.
 
-![Status](https://img.shields.io/badge/Status-Building-50C878?style=flat-square&labelColor=0F1419)
+![Status](https://img.shields.io/badge/Status-Building-00CED1?style=flat-square&labelColor=0F1419)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### 🙏 The Fellowship Room
+### <span style="color:#00ff85">🙏 The Fellowship Room</span>
 
 Faith-based community platform connecting believers. Features include group discussions, prayer requests, and resource sharing.
 
-![Status](https://img.shields.io/badge/Status-Planning-00CED1?style=flat-square&labelColor=0F1419)
+![Status](https://img.shields.io/badge/Status-Planning-50C878?style=flat-square&labelColor=0F1419)
 
 </td>
 <td align="center" width="50%">
 
-### 🍔 Restaurant Solutions
+### <span style="color:#00ff85">🍔 Restaurant Solutions</span>
 
 Custom web solutions with POS integrations (Clover API), online ordering, and automated marketing for DFW restaurants.
 
-![Status](https://img.shields.io/badge/Status-Active-00ff85?style=flat-square&labelColor=0F1419)
+![Status](https://img.shields.io/badge/Status-Active-00CED1?style=flat-square&labelColor=0F1419)
 
 </td>
 </tr>
@@ -94,29 +94,33 @@ Custom web solutions with POS integrations (Clover API), online ordering, and au
 ---
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> <code style="color:#00ff85">tech_stack</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> <code style="color:#00ff85">tech stack</code></h2></summary>
 
 <div align="center">
 
-### Core Technologies
+### <span style="color:#00ff85">Core Technologies</span>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### AI & Automation
+### <span style="color:#00ff85">AI & Automation</span>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-00ff85?style=for-the-badge&logoColor=black)
+![MindStudio](https://img.shields.io/badge/MindStudio.ai-FF6B6B?style=for-the-badge&logoColor=white)
 
-### Styling & Databases
+### <span style="color:#00ff85">Cloud & Databases</span>
 
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
@@ -126,6 +130,7 @@ Custom web solutions with POS integrations (Clover API), online ordering, and au
 
   <h3><code style="color:#00ff85">🎨 Frontend & Design</code></h3>
   
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
@@ -143,17 +148,15 @@ Custom web solutions with POS integrations (Clover API), online ordering, and au
 
   <h3><code style="color:#00ff85">☁️ Cloud & DevOps</code></h3>
   
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
   <h3><code style="color:#00ff85">🗄️ Additional Databases</code></h3>
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
   <h3><code style="color:#00ff85">🧠 ML & Data</code></h3>
   
@@ -181,16 +184,16 @@ Custom web solutions with POS integrations (Clover API), online ordering, and au
 ---
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="25" height="25" /> <code style="color:#00ff85">skill_levels</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="25" height="25" /> <code style="color:#00ff85">skill levels</code></h2></summary>
 
 ```text
 AI/LLMs       ████████████████████░░   92%
 API Design    █████████████████████░   95%
-JavaScript    ████████████████████░░   92%
+TypeScript    ████████████████████░░   92%
 React/Next    ████████████████████░░   90%
-TypeScript    ███████████████████░░░   88%
 Node.js       ███████████████████░░░   88%
 Python        █████████████████░░░░░   85%
+JavaScript    █████████████████░░░░░   85%
 UI/UX         █████████████████░░░░░   85%
 ```
 
@@ -199,7 +202,7 @@ UI/UX         █████████████████░░░░░
 ---
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> <code style="color:#00ff85">github_stats</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> <code style="color:#00ff85">github stats</code></h2></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyb3rflux&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff85&icon_color=00ff85&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
@@ -211,7 +214,7 @@ UI/UX         █████████████████░░░░░
 ---
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" height="25" /> <code style="color:#00ff85">contribution_snake</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" height="25" /> <code style="color:#00ff85">contribution snake</code></h2></summary>
 
 <div align="center">
   <picture>
@@ -228,7 +231,7 @@ UI/UX         █████████████████░░░░░
 ---
 
 <details> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <code style="color:#00ff85">recent_activity</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <code style="color:#00ff85">recent activity</code></h2></summary>
 
 <div align="center">
   
