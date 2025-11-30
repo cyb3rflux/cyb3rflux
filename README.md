@@ -22,7 +22,7 @@
 <details open> 
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> <code style="color:#00ff85">whoami</code></h2></summary>
 
-```typescript
+```javascript
 const developer = {
     name: "cyb3rflux",
     location: "DFW, Texas",
