@@ -1,7 +1,7 @@
 <!-- Professional content aligned with the official resume dated November 10, 2026. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:6b5fff&height=220&section=header&text=Cyb3rFlux&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" width="100%" alt="Cyb3rFlux: Applied AI Engineer and AI Agent Builder" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff85&center=true&vCenter=true&random=false&width=700&lines=Building+AI+Agents+%26+Applications;Base44+%2B+n8n+%2B+Custom+Code;Multi-Agent+Workflows+%7C+MCP+Integrations;Build.+Test.+Verify.+Iterate." width="100%" alt="Building AI agents and applications with Base44, n8n, custom code, and MCP" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:6b5fff&height=220&section=header&text=Cyb3rFlux&fontSize=70&fontColor=0F1419&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" width="100%" alt="Cyb3rFlux: Applied AI Engineer and AI Agent Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6b5fff&center=true&vCenter=true&random=false&width=700&lines=Building+AI+Agents+%26+Applications;Base44+%2B+n8n+%2B+Custom+Code;Multi-Agent+Workflows+%7C+MCP+Integrations;Build.+Test.+Verify.+Iterate." width="100%" alt="Building AI agents and applications with Base44, n8n, custom code, and MCP" />
 
 # Yonathan Rodriguez · cyb3rflux
 
@@ -9,7 +9,7 @@
 **Base44 Specialist & Partner · Top 0.03% Base44 Builder**  
 Dallas-Fort Worth, Texas · English / Español
 
-[![CyberFlux](https://img.shields.io/badge/CyberFlux-00ff85?style=for-the-badge&logoColor=black&labelColor=0F1419)](https://cyberflux.dev)
+[![CyberFlux](https://img.shields.io/badge/CyberFlux-6b5fff?style=for-the-badge&logoColor=black&labelColor=0F1419)](https://cyberflux.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0F1419)](https://www.linkedin.com/in/yonathan-rodriguez-3803b738b/)
 [![Base44 Profile](https://img.shields.io/badge/Base44-Builder_Profile-6b5fff?style=for-the-badge&labelColor=0F1419)](https://app.base44.com/@cyber-skywalker)
 
