@@ -1,220 +1,177 @@
-<!-- Header Banner -->
+<!-- Professional content aligned with the official resume dated November 10, 2026. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:6b5fff&height=220&section=header&text=Cyb3rFlux&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Solopreneur&descAlignY=58&descSize=18" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:6b5fff&height=220&section=header&text=Cyb3rFlux&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18" width="100%" alt="Cyb3rFlux: Applied AI Engineer and AI Agent Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff85&center=true&vCenter=true&random=false&width=700&lines=Building+AI+Agents+%26+Applications;Base44+%2B+n8n+%2B+Custom+Code;Multi-Agent+Workflows+%7C+MCP+Integrations;Build.+Test.+Verify.+Iterate." width="100%" alt="Building AI agents and applications with Base44, n8n, custom code, and MCP" />
 
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ff85&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Agents+%26+SaaS+Products;Shipping+Fast.+Iterating+Always.;Full-Stack+Developer+%7C+Solopreneur;Turning+Ideas+Into+Reality" alt="Typing SVG" /></a>
-</div>
+# Yonathan Rodriguez · cyb3rflux
 
-<!-- Profile Views & Stats -->
-<div align="center">
+**AI Agent Builder & Applied AI Engineer**  
+**Base44 Specialist & Partner · Top 0.03% Base44 Builder**  
+Dallas-Fort Worth, Texas · English / Español
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyb3rflux&color=6b5fff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F1419)
-[![GitHub Followers](https://img.shields.io/github/followers/cyb3rflux?style=for-the-badge&color=6b5fff&labelColor=0F1419&label=FOLLOWERS)](https://github.com/cyb3rflux?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/cyb3rflux?style=for-the-badge&color=6b5fff&labelColor=0F1419&label=STARS)](https://github.com/cyb3rflux?tab=repositories)
+[![CyberFlux](https://img.shields.io/badge/CyberFlux-00ff85?style=for-the-badge&logoColor=black&labelColor=0F1419)](https://cyberflux.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=0F1419)](https://www.linkedin.com/in/yonathan-rodriguez-3803b738b/)
+[![Base44 Profile](https://img.shields.io/badge/Base44-Builder_Profile-6b5fff?style=for-the-badge&labelColor=0F1419)](https://app.base44.com/@cyber-skywalker)
 
 </div>
 
 ---
 
-<details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> <code style="color:#00ff85">whoami</code></h2></summary>
+## `whoami`
+
+I build applications, AI agent workflows, and integrations. I've been building with AI since 2022, combining **Base44 and n8n** with custom code, multi-agent coordination, and local-first AI planning.
+
+Before AI engineering, I worked in electronics repair, production engineering, and team leadership. That background shapes how I build: find the root cause, test the failure paths, verify saved state, and make the system understandable to the people operating it.
 
 ```javascript
-const developer = {
-    name: "cyb3rflux",
-    location: "DFW, Texas",
-    role: "Full-Stack Developer & Solopreneur",
-    focus: ["AI Agents", "SaaS Products", "Business Automation"],
-    currentProjects: {
-        mapScan: "AI-powered local SEO for restaurants & med spas",
-        guardianOS: "AI agent platform for business automation",
-        fellowshipRoom: "Faith-based community platform"
-    },
-    philosophy: "Build fast. Ship faster. Iterate always."
+const builder = {
+  name: "Yonathan Rodriguez",
+  handle: "cyb3rflux",
+  role: "Founder & AI Systems Engineer at CyberFlux",
+  focus: [
+    "AI agents & multi-agent coordination",
+    "Base44 applications & n8n automation",
+    "REST APIs, webhooks & MCP",
+    "Human review, evals & reliable operations",
+    "Local-first AI & hardware planning"
+  ],
+  languages: ["English", "Spanish"],
+  approach: "Build. Test. Verify. Iterate."
 };
 ```
 
-</details>
+## `what I build`
 
----
+- **Applications and integrations:** React/Base44 apps, CRM and content workflows, payment integrations, scoped lead discovery, scoring, and activity logging. Base44 audits, fixes, migrations, architecture reviews, and cleanup.
+- **Agent systems:** Parallel research, implementation, debugging, and review with bounded tasks, clear shared-file ownership, durable handoffs, and independent integration checks.
+- **Voice workflows:** Bilingual Retell AI agents for FAQs, transfers, and scheduling, with SMS consent and call-completion checks. Booking confirmation follows successful tool execution.
+- **Operational controls:** Roles, permissions, human approvals, evidence trails, usage/cost visibility, pause/resume, and duplicate or stale-change safeguards.
+- **Local AI planning:** Model evaluation, GPU/VRAM and RAM sizing, storage, budgets, upgrade headroom, and privacy/cost tradeoffs between local capacity and cloud scaling.
 
-<details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> <code style="color:#00ff85">current builds</code></h2></summary>
+## `selected projects`
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
+### 🧩 Local To Do + MCP
+**React · Node.js · SQLite · REST · MCP**  
+A task app with a REST API and **17-tool stdio MCP server** sharing one SQLite database. Tested recurring tasks, reminders, attachments, MCP/REST readback, concurrent completion, restart persistence, and desktop/mobile behavior.
 
-### <span style="color:#00ff85">🗺️ MapScan AI</span>
+### 🧪 AgentBench
+**Base44 · Low-code/no-code prototype**  
+A browser-agent evaluation prototype with **12 task scenarios across 3 difficulty tiers**, tracking scores, time, and pass/fail outcomes.
 
-AI-powered local SEO automation for restaurants and med spas. Automated GBP optimization, review management, and competitor analysis.
+### 🧬 Persona Protocol Compiler
+**Base44 · Low-code/no-code prototype**  
+Evidence extraction, conflict review, and versioned prompt compilation with scenario-based evaluations.
 
-![Status](https://img.shields.io/badge/Status-In_Development-50C878?style=flat-square&labelColor=0F1419)
-
-</td>
-<td align="center" width="50%">
-
-### <span style="color:#00ff85">🛡️ Guardian OS</span>
-
-AI agent platform for business automation. Orchestrate workflows, automate repetitive tasks, and scale operations.
-
-![Status](https://img.shields.io/badge/Status-Building-00CED1?style=flat-square&labelColor=0F1419)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### <span style="color:#00ff85">🙏 The Fellowship Room</span>
-
-Faith-based community platform connecting believers. Features include group discussions, prayer requests, and resource sharing.
-
-![Status](https://img.shields.io/badge/Status-Planning-50C878?style=flat-square&labelColor=0F1419)
-
-</td>
-<td align="center" width="50%">
-
-### <span style="color:#00ff85">🍔 Restaurant Solutions</span>
-
-Custom web solutions with POS integrations (Clover API), online ordering, and automated marketing for DFW restaurants.
-
-![Status](https://img.shields.io/badge/Status-Active-00CED1?style=flat-square&labelColor=0F1419)
-
-</td>
-</tr>
-</table>
-</div>
-
-</details>
-
----
-
-<details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> <code style="color:#00ff85">tech stack</code></h2></summary>
-
-<div align="center">
-
-### <span style="color:#00ff85">Core Technologies</span>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### <span style="color:#00ff85">AI & Automation</span>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-00ff85?style=for-the-badge&logoColor=black)
-![MindStudio](https://img.shields.io/badge/MindStudio.ai-FF6B6B?style=for-the-badge&logoColor=white)
-
-### <span style="color:#00ff85">Cloud & Databases</span>
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
+### 🛠️ Foundry
+**Agent workflow application · MCP · Private operator interface**  
+Studies, evidence, finding revisions, and review history with human review, safe retries, and stale-update controls.
 
 <details>
-  <summary><h3><code style="color:#00ff85">📦 Additional Skills & Tools</code></h3></summary>
+<summary><strong>More engineering work</strong></summary>
 
-  <h3><code style="color:#00ff85">🎨 Frontend & Design</code></h3>
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-  ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+### 📊 AI usage and billing controls
+**Retell APIs · Webhooks**  
+Designed a usage ledger with API/webhook ingestion, credit/cost reconciliation, budget alerts, pause/resume controls, audit logs, and admin/client visibility.
 
-  <h3><code style="color:#00ff85">⚙️ Backend & APIs</code></h3>
-  
-  ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### 🎮 Multi-agent development and visual QA
+**Hermes Agent · Git · Python**  
+Directed workers on a custom game client/server project using staged candidates, durable checkpoints, regression checks, and release gates. Repaired a separate visual-QA directory-reference failure using manifest checkpoints, reconstruction checks, and SHA-256 integrity verification.
 
-  <h3><code style="color:#00ff85">☁️ Cloud & DevOps</code></h3>
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### 🗂️ Content Studio and agent operations
+**Context engineering · Knowledge · Recurring workflows**  
+Designed allowlisted retrieval with heading-level context, provenance hashes, and bounded packets. Built research, scheduling, email-attention, documentation, and secure-skill-review workflows, with background execution separated from publication approval.
 
-  <h3><code style="color:#00ff85">🗄️ Additional Databases</code></h3>
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-  <h3><code style="color:#00ff85">🧠 ML & Data</code></h3>
-  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-  <h3><code style="color:#00ff85">🎮 Creative & 3D</code></h3>
-  
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-  ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-  ![P5.js](https://img.shields.io/badge/P5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
-
-  <h3><code style="color:#00ff85">🔧 Other Languages & Tools</code></h3>
-  
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+### 🗣️ HiAvatar
+**Independent project started in 2022 · Real-time 3D · Speech · AWS · Docker**  
+Built a conversational avatar across frontend/backend, speech-to-text, text-to-speech, hosting, tests, and debugging. Integrated early ChatGPT code output in Visual Studio Code.
 
 </details>
 
-</details>
-
----
-
-<details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Voltage" width="25" height="25" /> <code style="color:#00ff85">skill levels</code></h2></summary>
-
-```text
-AI/LLMs       ████████████████████░░   92%
-API Design    █████████████████████░   95%
-TypeScript    ████████████████████░░   92%
-React/Next    ████████████████████░░   90%
-Node.js       ███████████████████░░░   88%
-Python        █████████████████░░░░░   85%
-JavaScript    █████████████████░░░░░   85%
-UI/UX         █████████████████░░░░░   85%
-```
-
-</details>
-
----
-
-<details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> <code style="color:#00ff85">github stats</code></h2></summary>
+## `toolbox`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rflux&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff85&icon_color=00ff85&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rflux&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff85&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+
+![Base44](https://img.shields.io/badge/Base44-6b5fff?style=for-the-badge&logoColor=white&labelColor=0F1419)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0F1419)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0F1419)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F1419)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white&labelColor=0F1419)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0F1419)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0F1419)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0F1419)
+
 </div>
+
+| Area | Tools and practices |
+| --- | --- |
+| Low-code/no-code | Base44 frontend, backend, hosting, and AI agents; n8n workflow automation |
+| Agents and orchestration | Multi-agent coordination, prompt/context engineering, tool calling, structured outputs, human review; LangChain / LangGraph prototypes; Langflow |
+| AI platforms | OpenAI / ChatGPT / Codex, Claude, Gemini, Hermes Agent, Retell AI, ElevenLabs |
+| Engineering | Python, JavaScript/TypeScript, React, Next.js, Node.js, REST APIs, webhooks, MCP, SQLite, Git/GitHub, Docker/WSL, AutoHotkey |
+| Cloud and deployment | Google Cloud, Netlify, Supabase, AWS, Base44 backend/hosting |
+| Quality and operations | Playwright, Vitest, integration and failure-path tests, state readback, idempotency, QA/evals, usage/cost controls, SOPs, change/rollback planning |
+| Local AI | Model evaluation; GPU/VRAM, RAM, compute, and storage planning; hardware selection; privacy/cost tradeoffs |
+| Creative | Storyboarding, video editing, photography, Adobe tools, scripting, social media; Higgsfield, Kling, Suno |
+
+**Exploration:** Moonshot AI tested; LangChain/LangGraph work is at the prototype stage.
+
+## `how I work`
+
+```text
+  SCOPE ---> ROUTE ---> BUILD ---> TEST ---> VERIFY
+    ^                                        |
+    +--------------- ITERATE <---------------+
+
+  Bounded tasks      Clear ownership     Durable handoffs
+  Human approvals    Failure-path QA     Saved-state readback
+```
+
+I route models and reasoning effort by task complexity, context needs, reliability, and cost. My task-based routing approach ("Tokenmaxxing") uses Luna/Terra for research, Sol for execution, and Astra for supervision.
+
+<details>
+<summary><strong>AI usage snapshot · November 10, 2026</strong></summary>
+
+From my ChatGPT dashboard/profile snapshot; excludes other platforms:
+
+- **7,257 messages** in 30 days
+- **22.2B lifetime tokens** and **1.6B peak tokens**
+- **1 day, 9 hours** longest task
+- **51-day** longest and current streak at the time of the snapshot
+
+Snapshot recorded on November 10, 2026.
+
+</details>
+
+## `experience`
+
+- **CyberFlux · Founder & AI Systems Engineer** · September 2024-present  
+  Applied AI systems, Base44 applications, integrations, multi-agent workflows, voice agents, and local-first planning.
+- **Freelance AI Engineer & Web Developer** · January 2023-September 2024  
+  Client websites, API integrations, AI knowledge tools, a second-brain system, and recurring/long-running research and documentation agents.
+- **Repair Services, Inc. · Production Process Engineer / Assistant Supervisor / Leader** · January 2019-February 2022  
+  Progressed through leadership and engineering roles. Automated reporting with AutoHotkey, supported quality and production operations, verified supplier corrective actions, and trained staff.
+- **SMS InfoComm Corporation · Senior Technician / Level 2 / Level 1 Technician** · May 2010-December 2018  
+  Hardware/software diagnosis, component-level repair, recurring-defect investigation, specialized repair assignment, and process improvement.
+
+**Education:** Associate of Applied Science in Electronics Technology, Mountain View College (2012).  
+**Professional development:** Six Sigma Green Belt, employer-provided program (2014).
+
+<details>
+<summary><strong>Other projects and explorations</strong></summary>
+
+Projects previously featured on this profile:
+
+- **MapScan AI:** Local SEO automation for restaurants and med spas, including GBP optimization, review management, and competitor analysis.
+- **Guardian OS:** AI agent platform for business automation.
+- **The Fellowship Room:** Faith-based community platform concept for discussions, prayer requests, and resource sharing.
+- **Restaurant solutions:** Custom web solutions with Clover API/POS integrations, online ordering, and automated marketing for DFW restaurants.
 
 </details>
 
 ---
 
 <details open> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" height="25" /> <code style="color:#00ff85">contribution snake</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" height="25" /> <code>contribution snake</code></h2></summary>
 
 <div align="center">
   <picture>
@@ -228,25 +185,8 @@ UI/UX         █████████████████░░░░░
 
 </details>
 
----
-
 <details> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <code style="color:#00ff85">recent activity</code></h2></summary>
-
-<div align="center">
-  
-**🚀 Currently shipping code, building products, and learning in public.**
-
-*GitHub contributions reflect public open-source work. Most development happens in private repos for client projects and SaaS products currently in development.*
-
-</div>
-
-</details>
-
----
-
-<details> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Music" width="25" height="25" /> <code style="color:#00ff85">vibes</code></h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Music" width="25" height="25" /> <code>vibes</code></h2></summary>
 
 <div align="center">
 
@@ -261,30 +201,12 @@ UI/UX         █████████████████░░░░░
 
 ---
 
-<details> 
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> <code style="color:#00ff85">connect</code></h2></summary>
-
 <div align="center">
 
-**Let's build something together.**
+**Let's build something useful.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff85?style=for-the-badge&logo=safari&logoColor=black&labelColor=0F1419)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F1419)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0F1419)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F1419)](mailto:your-email@example.com)
+[CyberFlux](https://cyberflux.dev) · [LinkedIn](https://www.linkedin.com/in/yonathan-rodriguez-3803b738b/) · [Base44](https://app.base44.com/@cyber-skywalker) · [Public repositories](https://github.com/cyb3rflux?tab=repositories)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:059669&height=120&section=footer" width="100%" alt="Cyb3rFlux green wave footer" />
 
-</details>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson&border=true&border_color=00ff85" alt="Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff85,100:059669&height=120&section=footer" width="100%"/>
 </div>
